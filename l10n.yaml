@@ -1,0 +1,3 @@
+arb-dir: lib/res/string
+template-arb-file: string_ja.arb
+output-localization-file: string.dart
